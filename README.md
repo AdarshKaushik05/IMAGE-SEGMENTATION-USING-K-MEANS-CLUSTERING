@@ -1,6 +1,6 @@
 # Cluster Lens — Image Segmentation Using K-Means Clustering
 
-> **IPA4-Grp8** · Course project · Image Processing & Analysis (IPA)  
+>  · Course project · Image Processing & Analysis (IPA)  
 > An interactive web application that reduces any photograph to _k_ representative  
 > colours by clustering its pixels in RGB space with K-Means.
 
