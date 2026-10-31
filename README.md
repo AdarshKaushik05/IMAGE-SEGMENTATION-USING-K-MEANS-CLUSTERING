@@ -572,14 +572,14 @@ size, because the extra centroids are mostly reached by the same number of itera
 
 | Member | Roll number |
 | --- | --- |
-| IPA4-Grp8 | 24155040 |
-| IPA4-Grp8 | 24155380 |
-| IPA4-Grp8 | 24155758 |
-| IPA4-Grp8 | 24155156 |
-| IPA4-Grp8 | 24155983 |
+| IPA15 | 24155301 |
+| IPA15 | 24155271 |
+| IPA15 | 24155535 |
+| IPA15 | 24155340 |
+| IPA15 | 24155501 |
 
-Maintained by **Arghya Bose**.
+Maintained by **Adarsh Kaushik**.
 
 ---
 
-Built for the IPA course · Image Segmentation Using K-Means Clustering · IPA4-Grp8
+Built for the IPA course · Image Segmentation Using K-Means Clustering · IPA15
