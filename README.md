@@ -568,7 +568,7 @@ size, because the extra centroids are mostly reached by the same number of itera
 
 ---
 
-## 15\. Team — IPA4-Grp8
+## 15\. Team — IPA15
 
 | Member | Roll number |
 | --- | --- |
